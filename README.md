@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Backend AI Engineer with 5+ years of experience designing and scaling Python-based systems, APIs, and GenAI-powered applications. Expertise in FastAPI, Django, RAG pipelines, and event-driven architecture. Proven track record of improving system performance, reducing downtime, and deploying cloud-native solutions on AWS.
+Senior Backend AI Engineer with 6+ years of experience designing and scaling Python-based systems, APIs, and GenAI-powered applications. Expertise in FastAPI, Django, RAG pipelines, and event-driven architecture. Proven track record of improving system performance, reducing downtime, and deploying cloud-native solutions on AWS.
 
 
 ## 🌐 Socials:
